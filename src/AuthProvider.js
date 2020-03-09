@@ -1,4 +1,4 @@
-import { MsalAuthProvider } from 'react-aad-msal';
+import { MsalAuthProvider, LoginType } from 'react-aad-msal';
 
 // The auth provider is the object used to authenticate user to Azure AD.
 // This object is also used to fetch access token
