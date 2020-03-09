@@ -14,7 +14,7 @@ export const authProvider = new MsalAuthProvider(
         },
     },
     {
-        scopes: ['https://eoneprayon.sharepoint.com/.default'], // Provide here your scopes based on the app registration in Azure
+        scopes: ['https://contoso.sharepoint.com/.default'], // Provide here your scopes based on the app registration in Azure
 
     },
     {
